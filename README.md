@@ -1,6 +1,7 @@
-# game_of_thrones_characters
+# game_of_thrones_characters_APP
 
 A new Flutter project.
+using Bloc As a State Management and using a clean code and Dio Package to help in interact with Api and get informations and use aSimple Animations.
 
 ## Getting Started
 
